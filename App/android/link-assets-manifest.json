@@ -1,0 +1,21 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/fonts/Inter-Regular.ttf",
+      "sha1": "cfa780d0b50b2bb7eacb82984f1b18a95aaa40c5"
+    },
+    {
+      "path": "src/assets/fonts/PreciousPlasticFont-Bold.ttf",
+      "sha1": "5e79f83d132660a6aac96bdb919ddd6deb411867"
+    },
+    {
+      "path": "src/assets/fonts/VarelaRoundPrecious-Bold.ttf",
+      "sha1": "8f9608168a9c2d5e238584e23d62e6cd390afeb0"
+    },
+    {
+      "path": "src/assets/fonts/VarelaRoundPrecious-Medium.ttf",
+      "sha1": "179e86188dc16643a949c7b57723a93ee1246557"
+    }
+  ]
+}
