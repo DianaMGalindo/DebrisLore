@@ -1,0 +1,24 @@
+item { 
+	id: 1
+	name: 'trash'
+}
+item { 
+	id: 2
+	name: 'plastic'
+}
+item { 
+	id: 3
+	name: 'paper'
+}
+item { 
+	id: 4
+	name: 'metal'
+}
+item { 
+	id: 5
+	name: 'glass'
+}
+item { 
+	id: 6
+	name: 'cardboard'
+}
