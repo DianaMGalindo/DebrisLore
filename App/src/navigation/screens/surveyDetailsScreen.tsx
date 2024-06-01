@@ -1,3 +1,7 @@
+//
+// The understanding of the FlatList react native component was informed by the following articles: 
+// A deep dive into React Native FlatList: https://blog.logrocket.com/deep-dive-react-native-flatlist/
+// FlatList: https://reactnative.dev/docs/flatlist
 import React, {FunctionComponent} from 'react';
 import {
 View,
