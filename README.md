@@ -19,7 +19,7 @@ This folder contains the necessary code to run the app. To run the code you need
    require('../../assets/model/ssd_mobilenet_v2_fineTune_copy.tflite'),
   );</code>
 -	[**Resources**](https://github.com/DianaMGalindo/DebrisLore/tree/main/Resources)
-    - **Project Resources**: this folder contains the resources, such as tutorials and readings that informed the building of this app.
+    - [**Project Resources**](https://github.com/DianaMGalindo/DebrisLore/blob/main/Resources/Project%20Resources.md): this folder contains the resources, such as tutorials and readings that informed the building of this app. They have been collated within this single document, but they are also included on the relevant sections within the code.
 ## Requirements
 Dependencies play a key role in the deployment of the application, as well as the running of the TensorFlow API. 
 As mentioned above, to build the app on Android Studio, the following build specifications are compatible at the time this project was first deployed: 
