@@ -1,3 +1,6 @@
+// **Acknowledgements
+// The developments of the onboarding process was informed by the following tutorial developed by kumzTech: https://www.youtube.com/watch?v=7ZkwC8NKPzM
+// and the course developed by JavaScript Mastery: https://www.youtube.com/watch?v=ZBCUegTZF7M
 import React from 'react';
 import {SafeAreaView, StyleSheet, Dimensions, Text, FlatList, View, Image, StatusBar, TouchableOpacity, ImageBackground} from 'react-native';
 import HomeScreen from '/homeScreen';
