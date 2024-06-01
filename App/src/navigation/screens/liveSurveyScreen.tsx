@@ -1,3 +1,7 @@
+// **Acknowledgements
+// The use of the react-native-vision-camera and react-native-fast-tflite were used as informed by the VisionCamera documentation: https://react-native-vision-camera.com/docs/guides 
+// The camera usage was informed by the following tutorial developed by notJust.dev: https://www.youtube.com/watch?v=XgPLshk9q9A
+// The implementation of the BottomSheet functionality was informed by the following tutorial: https://www.youtube.com/watch?v=oIEykI5oagI
 import React, {FunctionComponent, useRef, useCallback} from 'react';
 import {
   View,
