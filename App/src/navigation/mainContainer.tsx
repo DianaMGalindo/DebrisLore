@@ -1,3 +1,10 @@
+// **Acknowledgements
+//This is where I handle the routing of the application. The implementation of routing and bottom tab navigation was informed 
+//by the following resources: 
+//Bottom Navigation Bar Tutorial in React Native: https://www.youtube.com/watch?v=AnjyzruZ36E
+//Hide Bottom Tab on Specific Screen in React Native Typescript: https://www.youtube.com/watch?v=oqPrCiZyUEs
+//React Native Stack and Tab Navigator: https://www.youtube.com/watch?v=s7ackFpN-GU
+
 import React, {FunctionComponent} from 'react';
 import {
 View,
