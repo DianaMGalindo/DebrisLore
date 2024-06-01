@@ -2,7 +2,19 @@
 [![TensorFlow 2.2](https://img.shields.io/badge/TensorFlow-2.2-FF6F00?logo=tensorflow)](https://github.com/tensorflow/tensorflow/releases/tag/v2.2.0)
 [![TensorFlow 1.15](https://img.shields.io/badge/TensorFlow-1.15-FF6F00?logo=tensorflow)](https://github.com/tensorflow/tensorflow/releases/tag/v1.15.0)
 [![Python 3.6](https://img.shields.io/badge/Python-3.6-3776AB)](https://www.python.org/downloads/release/python-360/)
-
+## [Inserted] Acknowledgements
+This is the original README file from the TensorFlow API clone. 
+The development of the code within this section was possible thanks to the following tutorials: 
+- **Installing TensorFlow 2 Object detection API:**
+    - How to Install Tensorflow 2 Object Detection: https://www.youtube.com/watch?v=rRwflsS67ow
+    - Tensorflow 2 Custom Object Detection Model (Google Colab and Local PC): https://www.youtube.com/watch?v=8ktcGQ-XreQ
+    - Tensorflow-Object-Detection-with-Tensorflow-2.0 repository: https://github.com/BenGreenfield825/Tensorflow-Object-Detection-with-Tensorflow-2.0
+    - Intallation Guide: https://tensorflow-object-detection-api-tutorial.readthedocs.io/en/latest/install.html
+- **Training custom object detection model:**
+    - Tensorflow Object Detection in 5 Hours with Python | Full Course with 3 Projects: https://www.youtube.com/watch?v=yqkISICHH-U
+    - How to Train TensorFlow Lite Object Detection Models Using Google Colab | SSD MobileNet: https://www.youtube.com/watch?v=XZ7FYAMCc4M
+    - Train a custom object detection model using your data: https://www.youtube.com/watch?v=-ZyFYniGUsw
+      
 ## Deprecation
 
 *Note to our users*: the Tensorflow Object Detection API is no longer being
